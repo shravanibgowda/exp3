@@ -14,6 +14,7 @@ public class add {
             System.out.println("The entered number " + num + " is Even");
         } else {
             System.out.println("The entered number " + num + " is Odd");
+            print(even or Odd);
         }
     }
 }
