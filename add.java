@@ -1,6 +1,6 @@
 import java.util.Scanner; // Import the Scanner class to read user input
 
-public class EvenOddCheck {
+public class add {
     public static void main(String[] args) {
         int num;
         Scanner scanner = new Scanner(System.in);
